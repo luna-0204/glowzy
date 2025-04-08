@@ -2,24 +2,21 @@
 powder facewash for glowing skin ✨
 # 🌟 Glowzy Powder Facewash 🌟
 
-![Glowzy Banner](https://via.placeholder.com/800x200.png?text=Glowzy+Powder+Facewash)
+![Glowzy Banner](https://i.pinimg.com/736x/e3/84/e2/e384e2d013274fe3ba8bc6e61de8c6de.jpg))
 
 The future of skincare is **powder-to-glow** technology! 
 
 ## ✨ Why Glowzy?
 - can be used wit water, rose water, rice water milk.
-- Plastic-free packaging bambooo
+- Plastic-free packaging made with bambooo
 - Customizable lather for your skin type
 - Leaves skin glowing, not stripped
 
-## 🛍️ Our Products
-1. **Moonlight Glow** (for night-time radiance) - $22.99
-2. **Golden Hour** (vitamin C boost) - $24.99
 
 ## 📬 Contact Us
 Email: hello@glowzy.skin  
-Instagram: [@glowzyskincare](https://instagram.com)
+Instagram: [@glowzygram](https://www.instagram.com/glowzygram?igsh=MXVjZGNyYTBnMTZmaA==))
 
 ---
 
-Made with 💖 for my university project
+Made for my university project
