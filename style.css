@@ -10,9 +10,10 @@ body {
 /* Headings */
 h1, h2, h3 {
   color: #795548; /* sandal brown */
+  text-align: center;
 }
 
-/* Navigation bar (if you have one) */
+/* Navigation bar */
 nav {
   background-color: #d7ccc8; /* light sandal */
   padding: 10px;
@@ -38,6 +39,8 @@ button {
   padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
+  display: block;
+  margin: 20px auto;
 }
 
 button:hover {
