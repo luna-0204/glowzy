@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://luna-0204.github.io/glowzy/sitemap.xml
