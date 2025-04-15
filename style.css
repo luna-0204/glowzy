@@ -57,6 +57,21 @@ a:hover {
   color: #3e2723;
 }
 
+/* Social media icon base style */
+a img {
+  width: 24px;
+  height: 24px;
+  margin: 0 10px;
+  vertical-align: middle;
+  transition: transform 0.3s ease, filter 0.3s ease;
+}
+
+/* Social media icon hover effect */
+a img:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 5px #b97b56);
+}
+
 /* Footer */
 footer {
   background-color: #d7ccc8;
